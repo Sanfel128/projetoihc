@@ -14,4 +14,4 @@ Alunos
 5- Quem? Grupo p1, formado por Sandro, Milena, Raiana, Guilherme e Emanuel.
 6- Como? Será feito e apresentado em equipe
 7- Quanto? Não mensuramos o valor.
-8- Quantos? nn
+8- Quantos? nnn
